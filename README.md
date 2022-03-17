@@ -30,3 +30,5 @@ Electronic Engineering Student at _[University of Brasília](http://www.unb.br)_
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=BismarkCT&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=True&hide_title=True)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BismarkCT&hide=TeX&layout=compact&theme=dark&hide_border=True&hide_title=True)
+
+<img width=950 src="https://github-profile-trophy.vercel.app/?username=BismarkCT&margin-w=20 (https://github.com/ryo-ma/github-profile-trophy)">
