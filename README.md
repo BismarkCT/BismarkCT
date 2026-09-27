@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bismark-cotrim-858253174/)
 [![Lattes](https://img.shields.io/badge/Lattes-00A859?style=for-the-badge&logo=bookstack&logoColor=white)](https://lattes.cnpq.br/4953569492526432)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-5629-893X)
-[![GitHub](https://img.shields.io/github/followers/BismarkCT?label=Follow&style=for-the-badge&logo=github&color=24292e)](https://github.com/BismarkCT)
+![Visitors](https://komarev.com/ghpvc/?username=BismarkCT&style=for-the-badge&color=58A6FF&label=VISITORS&base=630)
 
 </div>
 
@@ -29,10 +29,7 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BismarkCT&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BismarkCT&hide=TeX&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BismarkCT&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BismarkCT&theme=github_dark" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BismarkCT&theme=github_dark" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=BismarkCT&background=0D1117&border=2E343B&stroke=2E343B&ring=8B949E&fire=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681" />
 </p>
